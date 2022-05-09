@@ -1,3 +1,2 @@
 another nice feature
-<<<<<<< HEAD
 dev2 change
